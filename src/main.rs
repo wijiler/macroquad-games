@@ -74,7 +74,7 @@ impl Renderable for Food {
 
 
 
-#[macroquad::main("InputKeys")]
+#[macroquad::main("POGquad")]
 async fn main() {
     let world = World::new();
     loop {
